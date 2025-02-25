@@ -4,8 +4,8 @@ Izumi Swap Auto Monad
 Clone Github
 
 ```
-git clone https://github.com/bangpateng/Izumi-Swap.git
-cd Izumi-Swap
+git clone https://github.com/sundaybase/izumi-monad-testnet.git
+cd izumi-monad-testnet
 ```
 
 ```
