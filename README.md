@@ -12,7 +12,7 @@ cd izumi-monad-testnet
 npm install
 ```
 
-Noted : Isi Private Key Wallet kalian di File private_keys.json
+Noted : Fill privatekey on private_keys.json
 
 ```
 node main.js
